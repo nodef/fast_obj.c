@@ -1,0 +1,15 @@
+{
+  "name": "fast_obj.c",
+  "version": "1.3.0",
+  "description": "Fast C OBJ parser; Richard Knight (2018).",
+  "keywords": ["c", "library", "obj", "parser", "3d", "model"],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nodef/fast_obj.c.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nodef/fast_obj.c/issues"
+  },
+  "homepage": "https://github.com/nodef/fast_obj.c#readme"
+}
